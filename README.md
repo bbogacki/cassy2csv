@@ -1,6 +1,6 @@
 # What is Cassy2CSV ?
 
-It's simple shell-like application that allows you to export and save query result from Cassandra to CSV file.
+It's simple shell-like application that allows you to export and save query result from [Cassandra](https://github.com/apache/cassandra) to CSV file.
 
 # Sample Cassy2CSV session
 
