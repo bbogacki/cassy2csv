@@ -11,8 +11,10 @@ Sample session might look like the one below
 # Installation
 
 1. Download binary from https://github.com/bbogacki/cassy2csv/releases/download/0.1/cassy2csv-0.1.jar
-2. From the command prompt type:
+2. From the command prompt type
 ```
 java -jar cassy2csv-0.1.jar
 ```
-3. Type help to see available options
+
+Type help to see available options
+
